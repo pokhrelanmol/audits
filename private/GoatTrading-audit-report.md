@@ -1,6 +1,6 @@
 # Goat Trading Audit Report
 
-![goat-trading-logo.svg](Goat%20Trading%20Audit%20Report%202ce1c63d414644f0aaef797a564cb77a/goat-trading-logo.svg)
+![goat-trading-logo.svg](https://www.goat.trading/header-logo.svg)
 
 ## Introduction
 
